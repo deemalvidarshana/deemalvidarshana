@@ -59,16 +59,16 @@
 ---
 
 <h3 align="left">Status:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deemalvidarshana&show_icons=true&locale=en" alt="deemalvidarshana" width="600"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deemalvidarshana&show_icons=true&locale=en" alt="deemalvidarshana" width="550"/></p>
 
 ---
 <h3 align="left">Languages:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deemalvidarshana&show_icons=true&locale=en&layout=compact" alt="deemalvidarshana" width="400" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deemalvidarshana&show_icons=true&locale=en&layout=compact" alt="deemalvidarshana" width="350" /></p>
 
 ---
 <h3 align="left">Trophy:</h3>
-<div >
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=deemalvidarshana&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="5000" />
+<div  align="center" >
+ <img src="https://github-profile-trophy.vercel.app/?username=deemalvidarshana&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="5000" />
 </div>
 
 ---
